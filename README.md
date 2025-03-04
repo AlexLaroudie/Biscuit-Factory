@@ -1,6 +1,7 @@
 Projet de 4 eme année d'optimisation en python
 
-1 Preamble
+**1 Preamble**
+
 This project replicates a task assigned during a technical interview, as part of a recruitment
 process for a major French company. The goal was to secure a position as a Research Engineer in
 Data Science & Optimization. The task was given to the candidate four days before a technical
